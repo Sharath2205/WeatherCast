@@ -12,17 +12,16 @@ body {
 }
 
 .app {
-  padding-top: 10%;
-  /* height: 100vh; */
+  padding-top: 2%;
   display: flex;
-  /* align-items: center; */
   justify-content: center;
 }
 
 .weather-container {
-  padding: 10%;
+  padding: 40px;
   min-height: 450px;
   max-height: 750px;
+  height: 700px;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
