@@ -2,7 +2,7 @@
 
 Weather cast a web application which takes user input and fetches data from [openweathermap](https://openweathermap.org/api) API
 
-Live demo [here](#)
+Live demo [here](https://647ec47beb86c866213607eb--gleaming-piroshki-46ac75.netlify.app/)
 
 ## Want to use this app? 
 
